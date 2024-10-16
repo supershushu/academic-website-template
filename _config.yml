@@ -1,7 +1,7 @@
 # Site settings
-title: xxx xxx
-email: jinma@cuhk.edu.hk
-description: Academic webpage of Dr. Jin Ma
+title: Xingcheng Lu
+email: xclu@cuhk.edu.hk
+description: Academic webpage of Prof. Xingcheng Lu
 baseurl: ""
 url: ""
 
@@ -12,8 +12,8 @@ url: ""
 
 # Footer info
 affiliation: >
-  Jin Ma<br/>
-  Postdoc Fellow<br/>
+  Xingcheng Lu<br/>
+  Assistant Professor Fellow<br/>
   The Chinese University of Hong Kong
 
 location: >
@@ -33,7 +33,7 @@ nav_pages:
   - name: software
   - name: team
   - name: teaching
-  - name: blogs
+#  - name: blogs
 
 include:
   - .htaccess
