@@ -1,7 +1,7 @@
-- name: Dr. Richard Feynman
+- name: Dr. Jin Ma
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
+  info: Dr. Jin Ma, The Chinese University of Hong Kong
+  email: jinma@cuhk.edu.hk
   github: https://github.com/
   researchgate: https://www.researchgate.net/
   scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
@@ -9,9 +9,9 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2024) Ph.D. Physics, Utrecht University",
+      "(2008) B.S. Physics, Peking University",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2024) Ph.D. Physics, Utrecht University", "(2008) B.S. Physics, PKU"]
