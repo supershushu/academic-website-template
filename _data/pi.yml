@@ -1,7 +1,7 @@
-- name: Dr. Jin Ma
+- name: Prof. Xingcheng Lu
   photo: headshot.jpg
-  info: Dr. Jin Ma, The Chinese University of Hong Kong
-  email: jinma@cuhk.edu.hk
+  info: Dr. Xingcheng Lu, The Chinese University of Hong Kong
+  email: xclu@cuhk.edu.hk
   github: https://github.com/
   researchgate: https://www.researchgate.net/
   scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
@@ -9,9 +9,10 @@
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(2024) Ph.D. Physics, Utrecht University",
-      "(2008) B.S. Physics, Peking University",
+      "(2024) Ph.D. Physics, HKUST",
+      "(2020) Master, Physics, Northwesten University",
+      "(2008) B.S. Physics, SYSU",
     ]
 
   educationshort:
-    ["(2024) Ph.D. Physics, Utrecht University", "(2008) B.S. Physics, PKU"]
+    ["(2024) Ph.D. Physics, Utrecht University", "(2020) Master. Physics, Northwesten University", "(2008) B.S. Physics, SYSU"]
